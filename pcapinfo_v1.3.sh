@@ -2,7 +2,7 @@
 
 #
 # Ali Jahangiri v1.3 Aug 2014 - v1.4 April 2019
-#	This bash script utilize capinfos and tshark to extract information from PCAP. This could be handy when you are analyzing large PCAP
+#	This bash script utilizes capinfos and tshark to extract information from PCAP. This could be handy when you are analyzing large PCAP
 # related to DDOS attacks.
 #
 
